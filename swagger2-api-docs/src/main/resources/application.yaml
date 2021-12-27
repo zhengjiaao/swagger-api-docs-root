@@ -1,0 +1,24 @@
+server:
+  port: 8088
+  max-http-header-size: 102400  #处理请求头太大
+
+spring:
+  application:
+    name: swagger2-api-docs
+  thymeleaf:
+    prefix: classpath:/templates/
+    #    prefix: file:D:/templates/
+    suffix: .html
+    cache: false
+    servlet:
+      content-type: text/html
+    enabled: true
+    encoding: UTF-8
+    mode: HTML5
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 50MB
+      max-request-size: 50MB
+
+localCache: C:/localcache

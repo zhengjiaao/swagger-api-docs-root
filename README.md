@@ -9,11 +9,11 @@
 
 ### 接口示例图：
 
-![1.png](./img/1.png)
+![1.png](img/1.png)
 
-![2.png](./img/2.png)
+![2.png](img/2.png)
 
-![3.png](./img/3.png)
+![3.png](img/3.png)
 
 
 
@@ -21,9 +21,9 @@
 
 模板1-效果图：
 
-![模板1-1.png](./img/模板1-1.png)
+![模板1-1.png](img/模板1-1.png)
 
-![模板1-2.png](./img/模板1-2.png)
+![模板1-2.png](img/模板1-2.png)
 
 
 

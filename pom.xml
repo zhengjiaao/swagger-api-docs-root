@@ -4,21 +4,20 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.zja.swagger</groupId>
     <artifactId>swagger-api-docs-root</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>swagger-api-docs-root</name>
     <description>swagger 文档生成</description>
 
     <modules>
-        <module>swagger2-api-docs</module>
-        <module>swagger3-api-docs</module>
+        <module>swagger-api-docs</module>
     </modules>
 
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <spring-boot.version>2.3.7.RELEASE</spring-boot.version>
+        <spring-boot.version>2.3.12.RELEASE</spring-boot.version>
     </properties>
 
     <dependencies>
